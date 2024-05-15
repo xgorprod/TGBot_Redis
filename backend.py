@@ -6,10 +6,6 @@ r = redis.StrictRedis(host='localhost', port=6379, db=0, decode_responses=True)
 admin_panel = False
 
 start_msg = '''Привет! Я телеграм бот для управления профилями пользователей.'''
-# Доступные команды:
-# /create
-# /update
-# /admin'''
 name_msg = "Введите ваше имя:"
 age_msg = "Введите ваш возраст:"
 delete_msg = "Ваш профиль удален."
