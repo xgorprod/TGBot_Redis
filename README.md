@@ -1,4 +1,4 @@
-# Telegram Bot на Redis💥
+# Telegram Bot на Redis🛢️
 Приложение для управления пользователями на Python/Telebot
 
 ## 💬 Функции:
